@@ -3,6 +3,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+   
 }
 body > header{
     background-color: #2f3640;
@@ -99,4 +100,10 @@ section h2{
 #tecnologia .articles article a{
     background-color: rgb(36, 142, 184);
 
+}
+body > a img{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 100px;
 }
